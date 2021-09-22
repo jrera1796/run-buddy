@@ -13,3 +13,4 @@ https://jrera1796.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Jose R.
 
+### 02019 Run Buddy, Inc
